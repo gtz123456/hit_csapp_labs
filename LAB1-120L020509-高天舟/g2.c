@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include<windows.h>
+//#include<windows.h>
 
 int main()
 {
@@ -11,5 +11,5 @@ int main()
         b += a;
         a = temp;
     }
-    system("pause");
+    //system("pause");
 }
